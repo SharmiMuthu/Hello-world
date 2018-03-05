@@ -1,2 +1,3 @@
 # Hello-world
-Beginner quest
+Hi everyone,
+The following are the changes made
